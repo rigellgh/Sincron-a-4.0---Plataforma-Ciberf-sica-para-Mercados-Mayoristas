@@ -14,3 +14,18 @@ Descripción
 - 🔒 **Patente en trámite**
 
 ## 📁 Estructura del Repositorio
+Sincronia4.0/
+├── 01_Documentacion/ # Documentación técnica y de negocio
+├── 02_Codigo_Fuente/ # Código de firmware, backend, frontend
+├── 03_Datos/ # Datos experimentales y simulaciones
+└── 04_Assets/ # Imágenes, videos, assets gráficos
+
+
+## Equipo
+
+- **Rigel A. Ladrón de Guevara H.** - Ingeniería en Tecnologías de la Información
+- **Ogglys Iguaro** - Ingeniería Industrial
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia MIT.
